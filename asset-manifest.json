@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/altimeter/static/css/main.94e50323.chunk.css",
+    "main.js": "/altimeter/static/js/main.e6169994.chunk.js",
+    "main.js.map": "/altimeter/static/js/main.e6169994.chunk.js.map",
+    "runtime-main.js": "/altimeter/static/js/runtime-main.06aa3ae3.js",
+    "runtime-main.js.map": "/altimeter/static/js/runtime-main.06aa3ae3.js.map",
+    "static/js/2.8feadce1.chunk.js": "/altimeter/static/js/2.8feadce1.chunk.js",
+    "static/js/2.8feadce1.chunk.js.map": "/altimeter/static/js/2.8feadce1.chunk.js.map",
+    "static/js/3.edcb83f1.chunk.js": "/altimeter/static/js/3.edcb83f1.chunk.js",
+    "static/js/3.edcb83f1.chunk.js.map": "/altimeter/static/js/3.edcb83f1.chunk.js.map",
+    "index.html": "/altimeter/index.html",
+    "static/css/main.94e50323.chunk.css.map": "/altimeter/static/css/main.94e50323.chunk.css.map",
+    "static/js/2.8feadce1.chunk.js.LICENSE.txt": "/altimeter/static/js/2.8feadce1.chunk.js.LICENSE.txt",
+    "static/media/radaltback.c3176894.png": "/altimeter/static/media/radaltback.c3176894.png",
+    "static/media/radaltcover.6d39d1d0.png": "/altimeter/static/media/radaltcover.6d39d1d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06aa3ae3.js",
+    "static/js/2.8feadce1.chunk.js",
+    "static/css/main.94e50323.chunk.css",
+    "static/js/main.e6169994.chunk.js"
+  ]
+}
